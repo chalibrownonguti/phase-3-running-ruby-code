@@ -6,10 +6,10 @@
 # print "Hello world!"
 # print "Hello world!"
 # print "Hello world!"
-puts [1, 2, 3]
-p [1, 2, 3]
+# puts [1, 2, 3]
+# p [1, 2, 3]
     # { id: 2, hello: "Ruby" }, 
-
+    pp [{ id: 1, hello: "World" }, { id: 2, hello: "Ruby" }, { id: 3, hello: "Moon" }, { id: 4, hello: "Learner" }]
 #     { id: 3, hello: "Moon" }, 
 #     { id: 4, hello: "Learner" }]
 
