@@ -1,34 +1,9 @@
-# pp [{ id: 1, hello: "World" }, 
-# puts "Hello world!"
-# puts "Hello world!"
-# puts "Hello world!"
-# puts "Hello world!"
-# print "Hello world!"
-# print "Hello world!"
-# print "Hello world!"
-# puts [1, 2, 3]
-# p [1, 2, 3]
-    # { id: 2, hello: "Ruby" }, 
-    # pp [{ id: 1, hello: "World" }, { id: 2, hello: "Ruby" }, { id: 3, hello: "Moon" }, { id: 4, hello: "Learner" }]
-#     { id: 3, hello: "Moon" }, 
-#     { id: 4, hello: "Learner" }]
 
-# p [1,2,3]
+# Output "Hello World!" using the puts method
+puts "Hello World!\n"
 
-puts "Hello World!"
-# print "Pass this test, please."
-# p [1,2,3]
+# Output "Pass this test, please." using the print method
+print "Pass this test, please."
 
-# def add
-    
-# end
-# # 1 + 1
-# puts add + add
-
-def add num1, num2
-    puts num1
-    puts num2
-    num1 + num2
-end
-
-puts add(1,3) + add(2,2)
+# Output the array [1, 2, 3] using the p method
+p [1, 2, 3]
