@@ -2,6 +2,9 @@
 
 puts "Hello world!"
 #     { id: 2, hello: "Ruby" }, 
+puts "Hello world!"
+puts "Hello world!"
+puts "Hello world!"
 #     { id: 3, hello: "Moon" }, 
 #     { id: 4, hello: "Learner" }]
 
